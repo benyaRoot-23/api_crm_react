@@ -1,0 +1,12 @@
+{
+  "clientes": [
+    {
+      "nombre": "Benyamin",
+      "empresa": "Masuno",
+      "email": "benja@benja.com",
+      "telefono": "9273487234",
+      "notas": "hla a todos",
+      "id": 1
+    }
+  ]
+}
